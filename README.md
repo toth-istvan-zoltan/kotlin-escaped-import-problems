@@ -8,7 +8,7 @@ When a package name is escaped, IDEA code completion does not work as expected.
 > Maven Central and to Gradle plugin portal.
 > 
 
-[Test.kt](/declaration/src/commonMain/kotlin/hello world/a/b/Test.kt):
+[Test.kt](/declaration/src/commonMain/kotlin/hello-world/a/b/Test.kt):
 
 ```kotlin
 package `hello world`.a.b
