@@ -1,0 +1,10 @@
+[versions]
+kotlin = "2.0.0"
+
+[libraries]
+
+declaration = { module = "local:declaration", version = "0.0.1"}
+
+[plugins]
+
+kotlinMultiplatform = { id = "org.jetbrains.kotlin.multiplatform", version.ref = "kotlin" }
