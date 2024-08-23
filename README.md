@@ -36,7 +36,7 @@ fun main(someClass: hello world.a.b.SomeClass) {
 }
 ```
 
-![Screen Recording 2024-08-23 at 11.44.17.mov](Screen%20Recording%202024-08-23%20at%2011.44.17.mov)
+![recording.mov](Screen%20Recording%202024-08-23%20at%2011.44.17.mov)
 
 > [!NOTE]
 > 
